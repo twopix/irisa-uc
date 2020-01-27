@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2a77acb3-d07a-4d07-87cb-a7c1a392e9d1/deploy-status)](https://app.netlify.com/sites/irisa/deploys)
 
 # irisahotel-intro
 
